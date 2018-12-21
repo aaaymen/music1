@@ -4,4 +4,3 @@ prefix= 1
 game= 1help
 stayinchannel=true
 songinstatus=true 
-token=NTE1ODc2ODM1OTcyNjEyMDk2.DtrfSQ.ex1BHhhx-15BMrIxnDvQHWUaKrM
